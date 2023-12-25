@@ -1,5 +1,5 @@
 # NoteIt
-Reminder Notes Website using html,Bootstrap and javascript. 
+Reminder Notes Website using HTML, Bootstrap and Javascript. 
 
 In this website, we can perform certain actions such as
 1). Add the information
